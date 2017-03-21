@@ -1,2 +1,2 @@
 # velocity
-Monitor patterns over time and indicate notable events
+Monitor patterns over time and indicate notable events.
